@@ -1,0 +1,214 @@
+pais,code,variacao
+Afeganistão,AFG,0.0
+Africa do Sul,ZAF,-0.9
+Albânia,ALB,0.0
+Alemanha,DEU,0.32
+Andorra,AND,0.0
+Angola,AGO,-10.15
+Antígua e Barbuda,ATG,-4.52
+Argentina,ARG,-2.42
+Argélia,DZA,0.12
+Armênia,ARM,-0.23
+Aruba,ABW,0.0
+Arábia Saudita,SAU,0.0
+Austria,AUT,1.53
+Austrália,AUS,-0.01
+Azerbaijão,AZE,3.45
+Bahamas,BHS,0.0
+Bahrein,BHR,0.58
+Bangladesh,BGD,-0.28
+Barbados,BRB,0.0
+Belize,BLZ,-14.16
+Benin,BEN,-15.08
+Bermudas,BMU,0.0
+Bielorrússia,BLR,4.84
+Bolívia,BOL,-6.43
+Botsuana,BWA,-6.26
+Brasil,BRA,-11.04
+Brunei,BRN,-6.26
+Bulgária,BGR,5.79
+Burkina Faso,BFA,-5.48
+Burundi,BDI,0.12
+Butão,BTN,17.8
+Bélgica,BEL,-0.49
+Bósnia e Herzegovina,BIH,-0.43
+Cabo Verde,CPV,7.53
+Camarões,CMR,-4.57
+Camboja,KHM,-16.64
+Canadá,CAN,-0.15
+Catar,QAT,0.0
+Cazaquistão,KAZ,0.01
+Chade,TCD,-1.92
+Chile,CHL,3.99
+China,CHN,6.67
+Chipre,CYP,1.24
+Cingapura,SGP,-0.17
+Cisjordânia e Gaza,PSE,0.18
+Colômbia,COL,-5.24
+Comores,COM,-7.06
+Coréia do Norte,PRK,-7.32
+Coréia do Sul,KOR,-3.45
+Costa Rica,CRI,2.5
+Costa do Marfim,CIV,-15.77
+Croácia,HRV,1.18
+Cuba,CUB,12.07
+Curaçao,CUW,0.0
+Dinamarca,DNK,3.17
+Djibuti,DJI,0.01
+Dominica,DMA,-3.25
+Egito,EGY,0.0
+El Salvador,SLV,-6.52
+Emirados Árabes Unidos,ARE,1.02
+Equador,ECU,-2.53
+Eritréia,ERI,-5.6
+Eslováquia,SVK,0.1
+Eslovênia,SVN,2.49
+Espanha,ESP,9.33
+Estados Unidos,USA,0.84
+Estônia,EST,4.05
+Etiópia,ETH,-3.42
+Fiji,FJI,10.96
+Filipinas,PHL,-1.98
+Finlândia,FIN,1.91
+França,FRA,5.15
+Gabão,GAB,-0.9
+Gana,GHA,-8.52
+Geórgia,GEO,1.01
+Gibraltar,GIB,0.0
+Granada,GRD,0.0
+Groenlândia,GRL,-0.0
+Grécia,GRC,4.68
+Guam,GUM,7.41
+Guatemala,GTM,-11.7
+Guiana,GUY,-0.95
+Guiné,GIN,-4.42
+Guiné Equatorial,GNQ,-8.94
+Guiné-Bissau,GNB,-9.01
+Gâmbia,GMB,-17.0
+Haiti,HTI,-1.29
+Honduras,HND,-5.62
+Hungria,HUN,2.31
+Ilha do homem,IMN,0.0
+Ilhas Cayman,CYM,-1.71
+Ilhas Faroe,FRO,0.0
+Ilhas Marianas do Norte,MNP,-19.75
+Ilhas Marshall,MHL,0.0
+Ilhas Salomão,SLB,-0.78
+Ilhas Turcas e Caicos,TCA,0.0
+Ilhas Virgens (EUA),VIR,-13.23
+Ilhas Virgens Britânicas,VGB,-0.6
+India,IND,2.77
+Indonésia,IDN,-16.37
+Iraque,IRQ,0.06
+Irlanda,IRL,4.65
+Irã,IRN,1.03
+Islândia,ISL,0.34
+Israel,ISR,0.37
+Itália,ITA,6.32
+Iêmen,YEM,0.0
+Jamaica,JAM,6.98
+Japão,JPN,-0.02
+Jordânia,JOR,-0.01
+Kiribati,KIR,0.0
+Kuwait,KWT,0.16
+Laos,LAO,-5.41
+Lesoto,LSO,0.0
+Letônia,LVA,3.92
+Libéria,LBR,-9.42
+Liechtenstein,LIE,1.25
+Lituânia,LTU,4.11
+Luxemburgo,LUX,0.82
+Líbano,LBN,0.35
+Líbia,LBY,0.0
+Macedônia do Norte,MKD,3.85
+Madagáscar,MDG,-2.18
+Malawi,MWI,-13.36
+Maldivas,MDV,0.0
+Mali,MLI,0.0
+Malta,MLT,0.34
+Malásia,MYS,-4.58
+Marrocos,MAR,0.58
+Mauritânia,MRT,-0.16
+Maurício,MUS,-1.13
+Mianmar,MMR,-16.28
+Micronésia,FSM,1.16
+Moldávia,MDA,2.05
+Mongólia,MNG,-0.14
+Montenegro,MNE,14.94
+Moçambique,MOZ,-8.44
+México,MEX,-2.52
+Mônaco,MCO,0.0
+Namíbia,NAM,-2.59
+Nauru,NRU,0.0
+Nepal,NPL,1.93
+Nicarágua,NIC,-24.86
+Nigéria,NGA,-5.38
+Noruega,NOR,0.14
+Nova Caledônia,NCL,0.38
+Nova Zelândia,NZL,1.98
+Níger,NER,-0.68
+Omã,OMN,-0.0
+Palau,PLW,6.78
+Panamá,PAN,-5.17
+Papua Nova Guiné,PNG,-1.2
+Paquistão,PAK,4.65
+Paraguai,PRY,-23.77
+Países Baixos,NLD,0.75
+Peru,PER,-3.22
+Polinésia Francesa,PYF,3.0
+Polônia,POL,1.97
+Porto Rico,PRI,19.84
+Portugal,PRT,-0.99
+Quirguizistão,KGZ,2.5
+Quênia,KEN,-0.43
+Reino Unido,GBR,1.7
+República Centro-Africana,CAF,-1.44
+República Checa,CZE,0.65
+República Democrática do Congo,COD,-10.8
+República Dominicana,DOM,11.37
+República do Congo,COG,-1.08
+Romênia,ROU,2.34
+Ruanda,RWA,-1.66
+Rússia,RUS,0.43
+Samoa,WSM,-5.11
+Samoa Americana,ASM,-4.7
+Santa Lúcia,LCA,-0.82
+Seicheles,SYC,0.0
+Senegal,SEN,-6.41
+Serra Leoa,SLE,-8.2
+Somália,SOM,-3.67
+Sri Lanka,LKA,-3.32
+Suazilândia,SWZ,2.12
+Sudão,SDN,1.13
+Sudão do Sul,SSD,0.0
+Suriname,SUR,-1.16
+Suécia,SWE,0.3
+Suíça,CHE,2.94
+São Cristóvão e Nevis,KNA,0.0
+São Marinho,SMR,0.0
+São Martinho,SXM,0.0
+São Martinho (parte francesa),MAF,6.42
+São Tomé e Príncipe,STP,-7.0
+São Vicente e Granadinas,VCT,2.56
+Sérvia,SRB,2.82
+Síria,SYR,0.82
+Tailândia,THA,1.0
+Tajiquistão,TJK,0.14
+Tanzânia,TZA,-13.15
+Timor Leste,TLS,-2.82
+Togo,TGO,-2.8
+Tonga,TON,0.0
+Trindade e Tobago,TTO,-2.7
+Tunísia,TUN,0.38
+Turcomenistão,TKM,0.0
+Turquia,TUR,3.17
+Tuvalu,TUV,0.0
+Ucrânia,UKR,0.72
+Uganda,UGA,-6.24
+Uruguai,URY,7.04
+Uzbequistão,UZB,1.22
+Vanuatu,VUT,0.0
+Venezuela,VEN,-6.57
+Vietnã,VNM,18.42
+Zimbábue,ZWE,-3.57
+Zâmbia,ZMB,-3.49
